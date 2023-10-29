@@ -75,12 +75,3 @@ h1 {
   padding: 10px;
   text-align: center;
 }
-.redirected {
-  background: linear-gradient(to bottom, #fd6868 0%,#f13e3e 100%);
-  border-radius: 30px;
-  display: grid;
-  gap: 10px;
-  grid-template-columns: repeat(3, 1fr);
-  padding: 10px;
-  text-align: center;
-}
