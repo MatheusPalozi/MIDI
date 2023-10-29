@@ -17,6 +17,7 @@ body {
 }
 
 h1 {
+  text-align: center;
   color: var(--branca);
   margin-bottom: 20px;
   font-size: 2rem;
